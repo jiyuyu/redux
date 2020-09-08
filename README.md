@@ -21,6 +21,7 @@ It is tiny (2kB, including dependencies).
 ## Learn Redux---jiyuyu1
 ## Learn Redux---jiyuyu2
 ## Learn Redux---qa
+## Learn Redux---qa ----2
 We have a variety of resources available to help you learn Redux, no matter what your background or learning style is.
 
 ### Just the Basics
